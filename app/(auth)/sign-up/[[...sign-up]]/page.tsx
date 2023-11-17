@@ -3,8 +3,10 @@ import { SignUp } from "@clerk/nextjs";
 
 const page = () => {
   return (
-    <SignUp />
+    <main className="flex min-h-screen w-full items-center justify-center">
+      <SignUp />
+    </main>
   )
 }
 
-export default SignUp
+export default page
