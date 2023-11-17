@@ -61,6 +61,9 @@ body {
 .primary-text-gradient {
   background: linear-gradient(129deg, #ff7000 0%, #e2995f 100%);
 }
+.primary-text-color{
+  color: #ff7000;
+}
 .custom-scrollbar::-webkit-scrollbar {
   width: 3px;
   height: 3px;
